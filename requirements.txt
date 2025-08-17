@@ -1,7 +1,5 @@
-openai
-langchain
 streamlit
+pandas
+numpy
+scikit-learn
 python-dotenv
-PyPDF2
-
--e .
